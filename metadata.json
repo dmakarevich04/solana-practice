@@ -1,7 +1,7 @@
 {
   "name": "TeaPot Coin",
   "symbol": "TPC",
-  "description": "Учебный токен для демонстрации SPL и Metaplex. Используется в лабораторной работе.",
+  "description": "My first token in Solana",
   "image": "https://images.vexels.com/media/users/3/329799/isolated/preview/74c05e9b4f6a6a04ee69fdf45429af4a-cup-of-coffee-and-maker-from-above.png",
   "attributes": [
     { "trait_type": "Type", "value": "Demo Token" }
